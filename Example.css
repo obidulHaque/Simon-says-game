@@ -1,0 +1,34 @@
+body{
+    display: flex;
+    justify-content: center;
+    height: 100vh;
+    
+}
+
+.box{
+    height: 100px;
+    width: 100px;
+    border: 5px;
+    border-radius: 25px;
+    margin: 5px;
+    display: inline-block;
+}
+.red{
+    background-color:red;
+}
+.green{
+    background-color:greenyellow;
+}
+.yellow{
+    background-color: yellow;
+}
+.pink{
+    background-color: pink;
+}
+h1{
+    position: relative;
+    left: 10%;
+}
+.flash{
+    background-color: #fff;
+}
